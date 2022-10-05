@@ -1,6 +1,6 @@
 # Named-Entity-Recognition
 
-##简介
+## 简介
 
 # 采用Bert、RoBERTa预训练模型
 通过微调模型，改变参数（Batch size: 16, 32；Learning rate (Adam): 5e-5, 3e-5, 2e-5；Number of epochs: 2, 3, 4）<br>
