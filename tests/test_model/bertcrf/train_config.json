@@ -1,0 +1,9 @@
+{
+    "vocab_size": 21128,
+    "label_size": 5,
+    "learning_rate": 0.0001,
+    "batch_size": 2,
+    "epoch": 20,
+    "ckpt_name": "bert_model.bin",
+    "vocab_name": "vocab.json"
+}
